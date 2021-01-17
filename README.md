@@ -1,5 +1,5 @@
 # AI_Climate_Seq2SeqConvLSTM
-Submission for the AI for Climate Hackathon on the Snow Challenge
+Winning submission for the AI for Climate Hackathon on the Snow Challenge
 
 Sequence to Sequence convolutional LSTM to forecast multiple steps (13) ahead. 
 
